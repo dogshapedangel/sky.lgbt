@@ -1,0 +1,14 @@
+base_url = "https://sky.lgbt"
+title = "sky"
+description = ""
+compile_sass = true
+build_search_index = false
+generate_feeds = true
+feed_filenames = ["atom.xml"]
+
+[markdown]
+
+[markdown.highlighting]
+theme = "github-dark"
+
+[extra]
